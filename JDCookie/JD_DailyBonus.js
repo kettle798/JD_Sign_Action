@@ -1710,7 +1710,8 @@ function JDSecKilling(s) {
     if (disable("JDSecKill")) return reject();
     setTimeout(() => {
       $nobyda.post({
-        url: 'https://api.m.jd.com/client.action',
+        //url: 'https://api.m.jd.com/client.action',
+        url: 'https://apixxxx.m.jd.com/client.action',
         headers: {
           Cookie: KEY,
           Origin: 'https://h5.m.jd.com'
