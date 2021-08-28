@@ -47,7 +47,6 @@ var Key = ''; //该参数已废弃; 仅用于下游脚本的兼容, 请使用jso
 var DualKey = ''; //该参数已废弃; 仅用于下游脚本的兼容, 请使用json串数据  ↓
 
 var OtherKey = `[{
-  "cookie": "pt_key=AAJhKbPdADDDnAPyiIuy7DQF2jEn7mWUmrWr1NBAhUys3MYU6VfMz4LyGrXYCuycH9bdOG3pbbQ; pt_pin=chuixue;"
 }
 ]`; //无限账号Cookie json串数据, 请严格按照json格式填写, 具体格式请看以下样例:
 
