@@ -15,7 +15,7 @@ const push_key = process.env.PUSH_KEY
 // 京东脚本文件
 //const js_url = 'https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js'
 //const js_url = 'https://raw.githubusercontent.com/NobyDa/Script/079e5e8ca948411a55ccaebaa3c236b9bebd8af1/JD-DailyBonus/JD_DailyBonus.js'
-const js_url = 'https://raw.githubusercontent.com/kettle798/JD_Sign_Action/master/JDCookie/JD_DailyBonus.js'
+const js_url = 'https://raw.githubusercontent.com/kettle798/Sign_Action/master/JDCookie/JD_DailyBonus.js'
 // 下载脚本路劲
 const js_path = './JD_DailyBonus.js'
 // 脚本执行输出路劲
